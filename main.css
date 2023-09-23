@@ -162,12 +162,3 @@ h2{
     color: black;
 }
 
-#Particles: after{
-    content: "";
-    position: absolute;
-    top: -2000px;
-    width: 2px;
-    height: 2px;
-    backround: transparent;
-    border-radius: 100%;
-}
